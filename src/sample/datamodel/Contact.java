@@ -4,6 +4,7 @@ import javafx.beans.property.SimpleStringProperty;
 
 /**
  * Using SimpleStringProperty to get data binding to work with the TableView
+ * Table will be automatically updated when data is changed
  */
 public class Contact {
     private SimpleStringProperty firstName = new SimpleStringProperty("");
