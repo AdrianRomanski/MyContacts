@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Peter </first_name>
+	<last_name>Parker</last_name>
+	<phone_number>345678123</phone_number>
+	<notes>Making good pictures</notes>
+</contact>
+<contact>
+	<first_name>Adrian</first_name>
+	<last_name>Romanski</last_name>
+	<phone_number>123456789</phone_number>
+	<notes>It's me : D</notes>
+</contact>
+<contact>
+	<first_name>Sherlock</first_name>
+	<last_name>Holmes</last_name>
+	<phone_number>777123456</phone_number>
+	<notes>Detective</notes>
+</contact>
+<contact>
+	<first_name>Marty</first_name>
+	<last_name>McFly</last_name>
+	<phone_number>19851955</phone_number>
+	<notes>Guitar Player</notes>
+</contact>
+</contacts>
